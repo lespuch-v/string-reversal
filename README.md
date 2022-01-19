@@ -1,2 +1,3 @@
 # string-reversal
-A simple web application that reversed string. 
+Simple web application for string reversal. 
+
